@@ -11,3 +11,7 @@ Description of feature
 ## Feature 3
 
 Description of feature
+
+## Feature 4
+
+Description of feature
